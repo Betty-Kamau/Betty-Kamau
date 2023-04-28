@@ -1,1 +1,1 @@
- Hi, my name is Betty Kamau. I am a software developer looking to major in Machine Learning and Artificial Intelligence. I am passionate about creating projects intelligent projects that can solve real world problems. You can reach me through my email, bettykamau333@gmail.com
+ Hi, my name is Betty Kamau. I am a software developer passionate about creating projects intelligent projects that can solve real world problems. You can reach me through my email, bettykamau333@gmail.com
