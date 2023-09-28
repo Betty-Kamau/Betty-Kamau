@@ -1,8 +1,8 @@
 ### Hello, I'm Betty Kamau 👋
 
-I'm a passionate data scientist with a strong background in data analysis and data visualization. I enjoy leveraging data-driven insights to solve complex problems and make informed decisions.
+I'm a passionate data scientist with a strong background in data analysis and Machine Learning. I enjoy leveraging data-driven insights to solve complex problems and make informed decisions.
 
-🌱 Currently, I'm honing my skills in [mention specific areas you're learning or improving].
+🌱 Currently, I'm honing my skills in Business Intelligence and Artificial Intelligence.
 
 ### 🔬 Data Science Toolbox
 
